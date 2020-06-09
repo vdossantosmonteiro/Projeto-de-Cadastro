@@ -1,0 +1,18 @@
+C:\Users\User\Documents\Curso Coti\Aula21\Aula21\Projeto.Data\bin\Debug\netcoreapp2.2\Projeto.Data.deps.json
+C:\Users\User\Documents\Curso Coti\Aula21\Aula21\Projeto.Data\bin\Debug\netcoreapp2.2\Projeto.Data.dll
+C:\Users\User\Documents\Curso Coti\Aula21\Aula21\Projeto.Data\obj\Debug\netcoreapp2.2\Projeto.Data.csprojAssemblyReference.cache
+C:\Users\User\Documents\Curso Coti\Aula21\Aula21\Projeto.Data\obj\Debug\netcoreapp2.2\Projeto.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Curso Coti\Aula21\Aula21\Projeto.Data\obj\Debug\netcoreapp2.2\Projeto.Data.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Curso Coti\Aula21\Aula21\Projeto.Data\obj\Debug\netcoreapp2.2\Projeto.Data.AssemblyInfo.cs
+C:\Users\User\Documents\Curso Coti\Aula21\Aula21\Projeto.Data\bin\Debug\netcoreapp2.2\Projeto.Data.pdb
+C:\Users\User\Documents\Curso Coti\Aula21\Aula21\Projeto.Data\obj\Debug\netcoreapp2.2\Projeto.Data.dll
+C:\Users\User\Documents\Curso Coti\Aula21\Aula21\Projeto.Data\obj\Debug\netcoreapp2.2\Projeto.Data.pdb
+C:\Users\User\Documents\Projeto Fornecedor e Produto\Projeto.Data\bin\Debug\netcoreapp2.2\Projeto.Data.deps.json
+C:\Users\User\Documents\Projeto Fornecedor e Produto\Projeto.Data\bin\Debug\netcoreapp2.2\Projeto.Data.dll
+C:\Users\User\Documents\Projeto Fornecedor e Produto\Projeto.Data\bin\Debug\netcoreapp2.2\Projeto.Data.pdb
+C:\Users\User\Documents\Projeto Fornecedor e Produto\Projeto.Data\obj\Debug\netcoreapp2.2\Projeto.Data.csprojAssemblyReference.cache
+C:\Users\User\Documents\Projeto Fornecedor e Produto\Projeto.Data\obj\Debug\netcoreapp2.2\Projeto.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projeto Fornecedor e Produto\Projeto.Data\obj\Debug\netcoreapp2.2\Projeto.Data.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Projeto Fornecedor e Produto\Projeto.Data\obj\Debug\netcoreapp2.2\Projeto.Data.AssemblyInfo.cs
+C:\Users\User\Documents\Projeto Fornecedor e Produto\Projeto.Data\obj\Debug\netcoreapp2.2\Projeto.Data.dll
+C:\Users\User\Documents\Projeto Fornecedor e Produto\Projeto.Data\obj\Debug\netcoreapp2.2\Projeto.Data.pdb
